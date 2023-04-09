@@ -1,5 +1,5 @@
 # RL_classes
-This repository has the objective to organize the studies in Reinforcement Learning. The classes are lead by Daniel Ratton Figueiredo, Amanda Camacho, Rodrigo Luna and me (Felipe Schreiber). Books used: [BS](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) and [MRT](https://cs.nyu.edu/~mohri/mlbook/). Slides: see [here](https://www.inf.ed.ac.uk/teaching/courses/rl/slides/)
+This repository has the objective to organize the studies in Reinforcement Learning. The classes are lead by Daniel Ratton Figueiredo, Amanda Camacho, Rodrigo Luna and me (Felipe Schreiber). Books used: [BS](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) and [MRT](https://cs.nyu.edu/~mohri/mlbook/). Slides: see [here](https://www.inf.ed.ac.uk/teaching/courses/rl/slides/). Coursera classes (Optional, click audit this course to grant free access): [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning).
 
 Planning:
 Day | Book Chapter | Organizer 
