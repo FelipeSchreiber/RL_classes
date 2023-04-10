@@ -7,5 +7,10 @@ Planning:
 Day | Book Chapter | Organizer 
 ---|---|---
 11/04 | cp 1 + 2 - BS | Felipe Schreiber 
+18/04 | cp 3 - BS | Rodrigo Luna
+25/04 | cp 17 - MRT | Amanda Camacho
+02/05 | cp 4 - BS | Rodrigo Luna
 09/05 | cp 5 - BS | Felipe Schreiber 
+16/05 | cp 6 - BS | Amanda Camacho
 23/05 | cp 7 - BS | Felipe Schreiber 
+30/05 | cp 10 + 11 - BS | Rodrigo Luna
